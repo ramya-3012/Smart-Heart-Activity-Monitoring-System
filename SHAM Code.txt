@@ -1,4 +1,4 @@
-PROGRAM CODE:
+PROGRAM CODE :
 //Heart beat monitoring code
 int pulsePin = A0;          // Pulse Sensor purple wire connected to analog pin A0
 int blinkPin = 13;                // pin to blink led at each beat
